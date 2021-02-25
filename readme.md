@@ -1,2 +1,3 @@
 # MyApp
-# I am learning github
+# I am learning github.
+# I have just updated a file to calculate balances in SQL
